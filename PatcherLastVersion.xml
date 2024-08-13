@@ -1,3 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<File versionp="1.0.2.1" />
-<File versiont="0.8.0" />
+<installer name="TL Patcher" file="TLRU.exe" version="1.0.2.1" />
